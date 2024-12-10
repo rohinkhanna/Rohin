@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rohinkhanna
-- 👀 I’m interested in Data Science and Product Management
+- 👀 I’m experienced in Data Science and Product Management
 - 📫 My Linkedin profile is https://www.linkedin.com/in/rohinkhanna/
 - 😄 Pronouns: He/Him/His
 
